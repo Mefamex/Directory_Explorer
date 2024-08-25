@@ -29,7 +29,7 @@ print("\n","#" * 30 ,"""
 import os, datetime
 
 
-class FileLister:
+class DirExVis:
     """This class walks a directory tree, gathers information about files and directories, and presents it in a formatted way.
     
     Bu sınıf, bir dizin yapısını gezerek, dosya ve dizinler hakkında bilgi toplar ve biçimlendirilmiş bir şekilde sunar."""
@@ -225,4 +225,4 @@ class FileLister:
 
 
 if __name__ == "__main__":
-    FileLister() #you can add here full path
+    DirExVis() #you can add here full path
