@@ -252,6 +252,7 @@ class DirExVis:
         Returns:
             None
         """
+        os.chdir(self.path)
         with open(
             "DirExVis_"
             + self.unixToDate(datetime.datetime.now().timestamp()).replace(":", ".")
