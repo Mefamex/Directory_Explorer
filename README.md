@@ -58,7 +58,7 @@ DİrExVis.details_folderCount = True # default :False ,
 >>> x.details_folderCount=True
 >>> x()
 
-########################## OUTPUT ######################/*
+########################## OUTPUT ######################"""
 C:\Users\User\Desktop\Directory_Explorer(0)                0.0mb 1724596396.0260692
 |    Scripts(0)---------------------------------------------0.0mb 2024-08-25 17:24:19
 |    |    activate                                        0.002mb 2024-08-25 17:24:19
@@ -76,7 +76,7 @@ C:\Users\User\Desktop\Directory_Explorer(0)                0.0mb 1724596396.0260
 |    LICENSE                                              0.001mb 2024-08-25 17:24:19
 |    main.py----------------------------------------------0.012mb 2024-08-25 17:24:19
 |    README.md                                            0.002mb 2024-08-25 17:26:20
-*/```
+"""```
 
 ## Uyarılar
 - Çok büyük dizinlerde performans düşüşü yaşanabilir.
