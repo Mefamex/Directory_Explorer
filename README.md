@@ -24,7 +24,7 @@ Komut panelinden `Python`'u aktifleştirmek ve istediğimiz klasöre gitmek içi
 
 ```bash
 cd Directory_Explorer
-cd Scipt
+cd Scripts
 activate.bat
 python.exe
 ```
