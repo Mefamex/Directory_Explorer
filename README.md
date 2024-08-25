@@ -34,12 +34,8 @@ import os
 os.chdir("..") # kütüphanenin dizinine çıkıyoruz
 import main
 DirExVis= main.DirExVis
-os.chdir("..") # !!! Your full path of dir
 
-# ------- tips -------
-# os.chdir içine .. yazarak üst dizinlere ulaşabilirsiniz
-# os.getcwd() yazarak mevcut konumunuzu görebilirsiniz
-
+# os.chdir("Your full path of dir")
 DirExVis() #bu kodu çalıştırdığınızda işlemlere başlıyacak
 ```
 `DirExVis()` kodu ile ekranınıza tüm alt klasörler ve mevcut dosyaların içerikleri gelicektir.
