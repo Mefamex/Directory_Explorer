@@ -225,4 +225,4 @@ class FileLister:
 
 
 if __name__ == "__main__":
-    FileLister("C:/Users/Mefamex/Desktop")
+    FileLister() #you can add here full path
