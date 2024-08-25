@@ -31,7 +31,7 @@ python.exe
 ```python
 ########################## PYTHON ######################
 import os
-os.getcwd("..")
+os.chdir("..") # main dizinine çıkmak için
 from main.py import DİrExVis
 os.chdir("..") # !!! Your full path of dir
 
