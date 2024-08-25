@@ -42,7 +42,6 @@ DirExVis() #bu kodu çalıştırdığınızda işlemlere başlıyacak
 ### Detayları Ayarlama
 ```python
 ########################## PYTHON ######################
-from main.py import DİrExVis
 DİrExVis.tab_size = 4 # default :4 ,
 DİrExVis.details_size = True # default :False , dosya boyutu görünsün mü? 
 DİrExVis.details_date = True # default :False , son kayıt tarihi görünsün mü? 
