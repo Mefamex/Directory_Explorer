@@ -33,9 +33,12 @@ python.exe
 import os
 os.getcwd("..")
 from main.py import DİrExVis
-os.chdir("your full path of dirrr")
+os.chdir("..") # !!! Your full path of dir
+
+# ------- tips -------
 # os.chdir içine .. yazarak üst dizinlere ulaşabilirsiniz
 # os.getcwd() yazarak mevcut konumunuzu görebilirsiniz
+
 DirExVis() #bu kodu çalıştırdığınızda işlemlere başlıyacak
 ```
 `DirExVis()` kodu ile ekranınıza tüm alt klasörler ve mevcut dosyaların içerikleri gelicektir.
