@@ -26,12 +26,12 @@ Komut panelinden `Python`'u aktifleştirmek ve istediğimiz klasöre gitmek içi
 cd Directory_Explorer
 cd Scripts
 activate.bat
-cd ..
 python.exe
 ```
 ```python
 ########################## PYTHON ######################
 import os
+os.chdir("..") # kütüphanenin dizinine çıkıyoruz
 import main
 DirExVis= main.DirExVis
 os.chdir("..") # !!! Your full path of dir
