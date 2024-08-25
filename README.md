@@ -59,7 +59,7 @@ DİrExVis.details_folderCount = True # default :False ,
 >>> x()
 
 ########################## OUTPUT ######################
-C:\Users\User\Documents\GitHub\Directory_Explorer(0)         0.0mb 1724596396.0260692
+C:\Users\User\Desktop\Directory_Explorer(0)                0.0mb 1724596396.0260692
 |    Scripts(0)---------------------------------------------0.0mb 2024-08-25 17:24:19
 |    |    activate                                        0.002mb 2024-08-25 17:24:19
 |    |    activate.bat------------------------------------0.001mb 2024-08-25 17:24:19
