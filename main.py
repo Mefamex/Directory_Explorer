@@ -41,7 +41,7 @@ class DirExVis:
     """
 
     tab_size: int = 4
-    details_size, details_date, details_folderCount = True, True, True
+    details_size, details_date, details_folderCount = False, False, False
     width: int = 35
     maxNameLength: list = [0, 0]  # name, depth
 
